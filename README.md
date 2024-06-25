@@ -43,9 +43,9 @@ This project aims to predict sales based on advertising expenditures across diff
 To replicate the analysis and predictions:
 
 1. Ensure Python 3.x and necessary libraries (pandas, numpy, matplotlib, seaborn, sklearn) are installed.
-2. Clone this repository: `git clone https://github.com/your_username/sales-prediction.git`.
+2. Clone this repository: `https://github.com/Elangovan0101/Sales-prediction.git
 3. Navigate to the project directory: `cd sales-prediction`.
-4. Run the Jupyter notebook `sales_prediction.ipynb` to execute the code step-by-step.
+4. Run the code `sales prediction.ipynb` to execute the code step-by-step.
 
 ## Dependencies 🛠️
 
